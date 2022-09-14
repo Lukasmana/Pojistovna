@@ -1,0 +1,15 @@
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\bin\Debug\net6.0\SpravaPojisteni.exe
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\bin\Debug\net6.0\SpravaPojisteni.deps.json
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\bin\Debug\net6.0\SpravaPojisteni.runtimeconfig.json
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\bin\Debug\net6.0\SpravaPojisteni.dll
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\bin\Debug\net6.0\SpravaPojisteni.pdb
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\obj\Debug\net6.0\SpravaPojisteni.csproj.AssemblyReference.cache
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\obj\Debug\net6.0\SpravaPojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\obj\Debug\net6.0\SpravaPojisteni.AssemblyInfoInputs.cache
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\obj\Debug\net6.0\SpravaPojisteni.AssemblyInfo.cs
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\obj\Debug\net6.0\SpravaPojisteni.csproj.CoreCompileInputs.cache
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\obj\Debug\net6.0\SpravaPojisteni.dll
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\obj\Debug\net6.0\refint\SpravaPojisteni.dll
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\obj\Debug\net6.0\SpravaPojisteni.pdb
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\obj\Debug\net6.0\SpravaPojisteni.genruntimeconfig.cache
+C:\Users\LukZach\OneDrive\Desktop\IT Work studium\Uloha ke zkoušce\SpravaPojisteni\SpravaPojisteni\obj\Debug\net6.0\ref\SpravaPojisteni.dll
