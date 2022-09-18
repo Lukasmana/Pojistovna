@@ -80,7 +80,15 @@ while (zadani != 4)
 
 }
 
-Console.WriteLine("\nKonec aplikace");
+Console.WriteLine("\nKonec aplikace\n");
 Console.WriteLine("Děkuji a přeji příjemný den :) ");
 Console.WriteLine("\nPro ukončení zmáčkněte \"Enter\" ");
+
+
+Console.WriteLine(
+"\n\n------------------------------------------\n" +
+"| Vytvořil a zpracoval : Lukáš Zacharias |" +
+"\n------------------------------------------\n");
+
+
 Console.ReadKey();
