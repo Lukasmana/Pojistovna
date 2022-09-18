@@ -57,12 +57,15 @@ namespace SpravaPojisteni
 
             pojistovna.PridejZakaznika(jmeno,prijmeni,telefon,vek);
         }
+        /* výpis všech zakazníku v databazi*/
         public void VypisZakazniky()
         {
             List<Zaznam> zaznamy = pojistovna.VypisZakazniky();
             foreach (Zaznam a in zaznamy)
                 Console.WriteLine(a);
         }
+
+        // Pro nalezení zakazníka podle jmena a příjmení
         public void NajdiZachaznika()
         {
             List<Zaznam> zaznamy = pojistovna.VypisZakazniky();
